@@ -15,3 +15,6 @@ Transformar y visualizar los datos que permitan conocer la incidencia delictiva
    - Esto en el delito de feminicidios 
 
 ![Captura de pantalla 2024-07-01 162712](https://github.com/Anaisahd/MicrosoftExcel/assets/174209100/b7ab00b9-2740-4fde-8829-c7ab2f9413b2)
+
+### Código utilizado en el análisis
+```SELECT * FROM table```
