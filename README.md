@@ -13,4 +13,5 @@ Transformar y visualizar los datos que permitan conocer la incidencia delictiva
   
 2. Durante el 2023 las cifras aumentaron en comparación con el 2022
    - Esto en el delito de feminicidios 
-![Captura de pantalla 2024-07-02 152945](https://github.com/Anaisahd/MicrosoftExcel/assets/174209100/3b5389f5-055b-4f54-b683-4218a0b2be6d)
+
+![Captura de pantalla 2024-07-01 162712](https://github.com/Anaisahd/MicrosoftExcel/assets/174209100/b7ab00b9-2740-4fde-8829-c7ab2f9413b2)
