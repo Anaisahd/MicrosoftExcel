@@ -5,7 +5,7 @@ Esta base de datos contiene incidencia delictiva desde el 2015 hasta mayo 2024
 
 
 ## Objetivo
-*** Transformar y visualizar los datos que permitan conocer la incidencia delictiva ***
+Transformar y visualizar los datos que permitan conocer la incidencia delictiva 
 
 ## Resultados del análisis
 1. Los Feminicidios aumentarón en el 2022
